@@ -50,7 +50,7 @@ const Projects = () => {
       description: "A machine learning project using Python, Keras and Deep Learning to recognize Ethiopian Sign Language. Implemented CNN and LSTM hybrid architecture. Achieved 87% accuracy on test dataset. Created custom dataset of Ethiopian Sign Language gestures. Developed real-time recognition capabilities.",
       images: [
         {
-          url: "/images/SLR_dashboard.png",
+          url: "./images/SLR_dashboard.png",
           alt: "Sign language recognition interface"
         },
       
@@ -62,7 +62,7 @@ const Projects = () => {
       description: "A website built with Angular, Node.js, and MySQL for entertainment content. Content management system for administrators. User-generated content and comments. Personalized content recommendations. Advanced search functionality.",
       images: [
         {
-          url: "/images/pvm.png",
+          url: "./images/pvm.png",
           alt: "Entertainment website homepage"
         },
         
@@ -75,7 +75,7 @@ const Projects = () => {
       description: "A food ordering application for Bahir Dar city built using Android and Firebase. Real-time order tracking and notifications. Integrated payment gateway. Restaurant and menu management system. User authentication and profile management.",
       images: [
         {
-          url: "/images/foodOrdering.png",
+          url: "./images/foodOrdering.png",
           alt: "Food ordering app interface"
         },
         
@@ -89,7 +89,7 @@ const Projects = () => {
       description: "An application built with Angular, Node.js and PostgreSQL for managing pavement infrastructure. GIS integration for spatial data visualization. Condition assessment and reporting. Maintenance scheduling and budget planning. Mobile data collection capabilities.",
       images: [
         {
-          url: "/images/pvm.png",
+          url: "./images/pvm.png",
                  alt: "Pavement management dashboard"
         },
       ],

@@ -52,7 +52,7 @@ const Hero = () => {
               <div className="relative h-full flex items-center justify-center">
                 <div className="bg-slate-800 rounded-full w-64 h-64 overflow-hidden border-4 border-teal-500/30">
                   <img
-                    src="/images/profile.jpg"
+                    src="./images/profile.jpg"
                     alt="Professional portrait of Shimels"
                     className="h-full w-full object-cover"
                   />
