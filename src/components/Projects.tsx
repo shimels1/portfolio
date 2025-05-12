@@ -62,7 +62,7 @@ const Projects = () => {
       description: "A website built with Angular, Node.js, and MySQL for entertainment content. Content management system for administrators. User-generated content and comments. Personalized content recommendations. Advanced search functionality.",
       images: [
         {
-          url: "./images/pvm.png",
+          url: "./images/ent.png",
           alt: "Entertainment website homepage"
         },
         
